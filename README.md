@@ -1,4 +1,4 @@
-# fastapi-next-react-crud
+# BLOG Application
 CRUD operation with fastapi and react js
 
 For run this application on your machine.
