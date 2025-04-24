@@ -3,7 +3,7 @@ CRUD operation with fastapi and react js
 
 For run this application on your machine.
 
-1. git clone 
+1. git clone https://github.com/w3villa-pranav-gupta/blog-application.git
 
 # Backend:
 2. cd backend
